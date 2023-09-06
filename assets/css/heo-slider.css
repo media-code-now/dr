@@ -1,0 +1,135 @@
+section.heo-slider-sec {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-color: var(--heo-apAliceBlue);
+}
+
+.heo-slider-sec:before {
+    content: " ";
+    position: absolute;
+    background-image: url(../images/slider-bg.png);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    z-index: -1;
+}
+
+.heo-slider-sec .swiper-container {
+    position: static;
+}
+
+.heo-slider-sec .swiper-wrapper {
+    max-height: 590px;
+}
+
+.heo-banner-slider .swiper-slide {
+    background-size: cover;
+    background-position: 50%;
+    min-height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heo-banner-slider .swiper-pagination-bullets {
+    right: 50px !important;
+}
+
+.heo-banner-slider .swiper-pagination-bullet {
+    width: 5px;
+    height: 30px !important;
+    border-radius: 6px !important;
+    opacity: 1;
+    background: var(--heo-light);
+    display: inline-block;
+}
+
+.heo-banner-slider .swiper-pagination-bullet-active {
+    opacity: 1;
+    background: var(--heo-success) !important;
+}
+
+/* ===========================clients feedback slider================================== */
+
+.heo-clients-fb .swiper-container {
+    width: 90vw;
+    height: 100%;
+    min-height: 343px;
+}
+
+.heo-clients-fb .swiper-slide {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 79%, 10% 79%, 0 90%, 0 73%);
+    min-height: 295px;
+    background-color: var(--heo-apAliceBlue);
+    height: 100%;
+    padding: 30px 30px 0px 30px;
+}
+
+.heo-clients-fb .swiper-slide-active {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 74%, 100% 91%, 90% 78%, 0% 78%);
+}
+
+.heo-clients-fb.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.heo-clients-fb .swiper-pagination {
+    text-align: start !important;
+}
+
+.heo-clients-fb .swiper-pagination-bullet-active {
+    background-color: var(--heo-primary) !important;
+}
+
+.heo-clients-fb .swiper-pagination-bullet {
+    height: 9px !important;
+    width: 9px !important;
+    margin: 6px !important;
+}
+
+
+/* ----------------------------------testimonial outer slider-------------------------------- */
+
+.heo-testi-outer-slider-main.swiper-container {
+    position: relative;
+}
+
+.heo-testi-outer-slider-main.swiper-container>.swiper-slide__content {
+    position: absolute;
+    top: 0;
+}
+
+.heo-testi-outer-slider-main .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 200ms linear;
+    transform: scale(0.8);
+}
+
+.heo-testi-outer-slider-main .swiper-button-next,
+.heo-testi-outer-slider-main .swiper-button-prev {
+    right: unset !important;
+    left: auto;
+    background-image: none !important;
+}
+
+/* ----------------------------------Shop and modal slider-------------------------------- */
+
+.heo-pd-gallery .swiper-button-next,
+.swiper-container-rtl .swiper-button-prev {
+    background-image: none !important;
+}
+
+.heo-modal-gallery .swiper-button-next,
+.swiper-container-rtl .swiper-button-prev {
+    background-image: none !important;
+}

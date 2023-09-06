@@ -1,0 +1,2082 @@
+/* ===========================================================Responsive================================================ */
+
+@media (min-width: 1164px) {
+    .container {
+        max-width: 1170px !important;
+        width: 100%;
+    }
+}
+
+@media (max-width:1198.98px) {
+    .heo-nav-bar .nav-link {
+        margin-right: 20px;
+    }
+    .heo-au-exp-20 {
+        width: 100px;
+        height: 100px;
+        left: -34px;
+        outline-offset: -9px;
+    }
+    .heo-experts-appionmnet {
+        padding: 25px 10px 15px 10px;
+    }
+    .heo-au-detail {
+        gap: 20px;
+    }
+    .heo-pf-text span small {
+        font-size: 18px;
+    }
+    .heo-latest-news {
+        gap: 15px;
+    }
+    .heo-news-list-date {
+        line-height: unset;
+        align-items: center;
+        gap: 10px;
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .heo-news-list-detail {
+        gap: 10px;
+    }
+    .heo-news-list-detail a {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .heo-sp-timing ul li {
+        font-size: 14px;
+    }
+    .heo-sp-timing a {
+        padding: 14px 24px;
+    }
+    .heo-sp-contact-nbr p svg {
+        margin-left: 14px;
+        width: 24px;
+    }
+    .heo-sp-contact-nbr P {
+        padding: 55px 10px 9px 10px;
+    }
+    .heo-sp-surgical-procedure-detail ul li svg {
+        margin-right: 15px;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img {
+        left: 130px;
+    }
+    .heo-about-us-main {
+        margin-bottom: 80px;
+    }
+    .heo-au-sp-experince {
+        right: -17px;
+        bottom: -70px;
+        min-height: 224px;
+        /* height: 25%; */
+        padding: 161px 55px 13px;
+    }
+    .heo-dr-experince {
+        right: -15px;
+    }
+    .heo-tabset>label {
+        font-size: 30px;
+        margin-right: 24px;
+    }
+    .heo-shop-cart-btns {
+        gap: 10px;
+    }
+    .heo-shop-cart-btns a.view-cart-btn,
+    .heo-shop-cart-btns a.checkout-btn {
+        padding: 10px 16px;
+    }
+    .heo-related-pro {
+        max-width: 100%;
+    }
+    .rel-pro-img {
+        max-width: 100%;
+    }
+    .rel-pro-img img {
+        width: 100%;
+        height: 100%;
+    }
+    .heo-cart-pg-rp .swiper-button-prev:after {
+        left: -50px;
+    }
+    .heo-cart-pg-rp .swiper-button-next:after {
+        right: -50px;
+    }
+    .pd-add-cart-wishlist {
+        gap: 20px
+    }
+    .heo-blog-card-text {
+        top: 200px;
+        left: 0%;
+        right: 0%;
+    }
+}
+
+@media (max-width:1164.98px) {
+    .accordion-header .accordion-button {
+        line-height: 28px !important;
+    }
+    .pro-detial-4 .pd-add-cart-wishlist {
+        gap: 36px;
+    }
+    .heo-au-heading h4 {
+        margin: 0px;
+    }
+    .heo-au-watch-demo a {
+        margin-top: 30px;
+    }
+    .heo-au-acheivments {
+        gap: 20px;
+    }
+    .heo-hiw-text p {
+        padding-right: 30px;
+    }
+    .heo-am-booknow {
+        padding: 30px;
+        max-height: 650px;
+    }
+    .heo-blog-text {
+        padding: 0px;
+    }
+    .heo-blog-inner {
+        gap: 15px;
+    }
+    .heo-experts-profile .heo-au-exp-20 {
+        bottom: -45px;
+    }
+    .heo-git-bottom-img {
+        right: 10px;
+        bottom: 10px;
+    }
+    .quick-view-btn-timer {
+        bottom: 29%;
+    }
+    .heo-share-pro {
+        padding: 12px 15px;
+    }
+    .heo-cart-table .cart-coupon-row {
+        flex-wrap: wrap;
+    }
+    .heo-footer-sl-main {
+        margin-top: 15px;
+    }
+}
+
+@media (max-width:1024px) {
+    .heo-banner-pagi-arrows {
+        float: left !important;
+        margin-top: 10px;
+        left: 30px;
+    }
+    div#heo-shop-pro-timer {
+        padding: 12px 30px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .heo-nav-bar-main .heo-nav-bar {
+        background: var(--heo-light);
+        border-radius: 10px;
+        padding: 20px 0px !important;
+    }
+    .heo-nav-bar-main {
+        padding: 12px 0;
+    }
+    .heo-nav-bar ul li a {
+        height: 45px;
+        line-height: 45px;
+    }
+    .heo-dropdown-menu {
+        box-shadow: rgb(50 50 93 / 7%) 0px 13px 11px -5px, rgb(0 0 0 / 10%) 0px 8px 16px -8px;
+    }
+    .heo-slider-sec:before {
+        background-image: none;
+        clip-path: polygon(75% 0, 100% 0, 100% 100%, 30% 100%);
+        background-color: var(--heo-primary);
+        top: 1px;
+    }
+    .heo-banner-slider .swiper-pagination-bullets {
+        right: 25px !important;
+    }
+    .heo-header-slide-img {
+        display: none;
+    }
+    .heo-ecs-text {
+        padding: 44px 15px 41px 15px;
+    }
+    .heo-au-acheivments {
+        gap: 10px;
+    }
+    .heo-au-ac-item {
+        padding: 10px;
+    }
+    .heo-au-detail {
+        gap: 10px;
+    }
+    .heo-au-detail .heo-au-p-border {
+        padding: 6px 8px;
+        border-radius: 10px;
+    }
+    .heo-hiw-text {
+        padding: 50px 20px 30px;
+    }
+    .heo-hiw-list {
+        margin-bottom: 80px;
+    }
+    .heo-hiw-text p {
+        padding-right: 0px !important;
+    }
+    .heo-portfolio-main {
+        padding: 130px 30px;
+    }
+    .heo-pf-text span {
+        font-size: 42px;
+    }
+    .heo-pf-text span small {
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .heo-counter-main {
+        padding: 48px 30px;
+    }
+    .heo-counter-list {
+        padding: 0px;
+    }
+    .heo-experts-appionmnet {
+        margin: -16px 7px 7px 7px;
+        padding: 10px 10px 10px 10px;
+    }
+    .heo-experts-appionmnet a {
+        font-size: 12px;
+    }
+    .heo-experts-appionmnet a svg {
+        margin-left: 3px;
+        padding-left: 2px;
+    }
+    .heo-experts-appionmnet .heo-dr-address {
+        font-size: 12px !important;
+    }
+    .heo-ox-social-link {
+        padding: 41px 15px 100px;
+    }
+    .heo-ox-social-icons ul {
+        gap: 5px;
+    }
+    .heo-ox-social-icons ul li {
+        padding: 8px;
+    }
+    .heo-am-form {
+        padding: 27px 0px 0px;
+    }
+    .heo-am-booknow {
+        padding: 54px 30px 0px 30px;
+        max-height: 100%;
+    }
+    .heo-am-booknow p {
+        margin-top: 15px
+    }
+    .heo-blog-text {
+        padding: 35px 0px;
+        width: 70%;
+    }
+    .heo-blog-inner {
+        gap: 20px;
+    }
+    .heo-footer-log-head {
+        gap: 20px;
+    }
+    .heo-footer-log-head p {
+        text-align: justify;
+    }
+    .heo-footer-information {
+        gap: 25px;
+    }
+    .heo-footer-contact a {
+        font-size: 12px;
+    }
+    .heo-footer-contact a svg {
+        margin-right: 10px;
+    }
+    .heo-footer-quick-links ul li a {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+    .heo-footer-quick-links ul li {
+        font-size: 12px;
+    }
+    .heo-footer-sl-main {
+        gap: 8px;
+    }
+    .heo-footer-social-link ul {
+        gap: 4px;
+    }
+    .heo-footer-social-link ul li a {
+        width: 37px;
+        height: 37px;
+    }
+    .heo-news-list-img img {
+        width: 100%;
+    }
+    .heo-news-list-detail {
+        gap: 5px;
+    }
+    .heo-latest-news {
+        gap: 10px;
+    }
+    .heo-news-list-detail a {
+        font-size: 10px;
+    }
+    .heo-footer-newsletter-main h4 {
+        font-size: 14px !important;
+    }
+    .heo-best-gallery-img {
+        max-width: 90px;
+    }
+    .heo-footer-ql-nav {
+        gap: 5px;
+    }
+    .heo-sp-serivce-list-right ul li a svg {
+        margin-right: 0px;
+        font-size: 22px;
+    }
+    .heo-sp-serivce-list-right ul li a {
+        font-size: 14px;
+    }
+    .heo-sp-serivce-list-right ul li {
+        padding: 14px 11px 14px 10px;
+    }
+    .heo-sp-serivce-list-right,
+    .heo-sp-timing {
+        padding: 20px 15px;
+    }
+    .heo-sp-timing ul li {
+        font-size: 12px;
+        line-height: 20px;
+        font-weight: 700;
+    }
+    .heo-sp-timing a {
+        padding: 12px 10px;
+        font-size: 12px;
+    }
+    .heo-sp-contact-nbr p svg {
+        margin-left: 0px;
+    }
+    .heo-sp-contact-nbr p {
+        font-size: 12px !important;
+    }
+    .heo-sp-contact-nbr {
+        clip-path: polygon(0 57%, 100% 26%, 100% 100%, 0% 100%);
+    }
+    .heo-services-text {
+        padding: 25px 15px;
+    }
+    .heo-headings h3::after {
+        font-size: 40px;
+    }
+    .heo-about-us-main .heo-headings h3 {
+        width: 215px;
+    }
+    .heo-about-us-main .heo-headings h3::after {
+        text-align: left;
+    }
+    .heo-au-sp-experince {
+        right: -15px;
+        bottom: -60px;
+        min-height: 150px;
+        padding: 94px 37px 5px;
+    }
+    .heo-au-pg-ecs-list .hec-ecs-img-icon {
+        top: -20%;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-text {
+        padding: 15px 0px 0px 15px;
+    }
+    .heo-au-pg-ecs-list p {
+        padding: 20px 0px 15px !important;
+    }
+    .heo-au-service-sec h4 {
+        font-size: 14px !important;
+        margin-top: 10px;
+    }
+    .heo-au-service-sec .heo-ecs-banner-img img {
+        width: 100%;
+        min-height: 250px;
+        height: 100%;
+        object-fit: fill;
+        border-radius: 0px 5px 5px 0px;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img {
+        left: 90px;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img img {
+        height: 70px;
+        width: 70px;
+    }
+    .heo-au-pg-testimonial {
+        padding: 80px 0px;
+        margin-bottom: 80px;
+    }
+    .heo-au-pg-our-experts {
+        margin-top: 80px;
+    }
+    .heo-experts-profile .heo-card-img {
+        min-height: 265px;
+    }
+    .heo-au-right-sec .heo-headings h2 {
+        text-align: left;
+    }
+    .heo-app-contact-nbr ul li {
+        font-weight: 700;
+        font-size: 14px
+    }
+    .heo-tabset>label {
+        font-size: 20px;
+        margin-right: 28px;
+    }
+    .heo-dr-speciality ul li {
+        padding: 14px 5px;
+    }
+    .heo-dr-speciality ul li a svg {
+        margin-right: 5px;
+        font-size: 20px;
+    }
+    .heo-dr-speciality ul li a {
+        font-weight: 700;
+        font-size: 12px;
+    }
+    .heo-blog-searchbar .search-input {
+        padding: 15px 10px;
+    }
+    .heo-blog-searchbar a svg {
+        right: 10px;
+    }
+    .heo-blog-client-fb .heo-client-fb-img {
+        flex-wrap: nowrap;
+        gap: 17px;
+    }
+    .heo-blog-client-name h4 {
+        font-size: 16px !important;
+    }
+    .heo-blog-client-fb p {
+        text-align: justify;
+    }
+    .heo-client-fb-msg span {
+        margin-top: 20px;
+    }
+    .heo-feed-bk-time ul {
+        margin-left: 10px;
+        gap: 5px;
+    }
+    .heo-bc-comment-reply {
+        padding: 16px 20px 31px;
+    }
+    .heo-blog-news .heo-latest-news {
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+    .heo-blog-category {
+        width: calc(60% - 12px);
+    }
+    .heo-blog-stat {
+        gap: 24px;
+    }
+    .heo-blog-category ul li span,
+    .heo-blog-post-stat ul li span {
+        margin-right: 5px;
+    }
+    .heo-blog-post-stat ul li svg {
+        margin-right: 5px;
+    }
+    .heo-blog-category ul {
+        gap: 5px;
+    }
+    .heo-blog-post-stat ul {
+        gap: 10px;
+        justify-content: flex-start;
+    }
+    .heo-blog-category ul li,
+    .heo-blog-post-stat ul li {
+        font-size: 12px;
+    }
+    /* shop-page css */
+    .heo-cart-pro-detail .heo-pro-sb-price p {
+        gap: 10px;
+    }
+    .heo-shop-cart-btns a.view-cart-btn,
+    a.checkout-btn {
+        padding: 7px 10px 8px 10px;
+    }
+    .pro-card-media .pro-sale-tag {
+        padding: 15px 20px 0px 20px;
+    }
+    .pro-card-media .pro-favorite-icon {
+        bottom: 15px;
+        right: 20px;
+    }
+    div#heo-shop-pro-timer {
+        width: 100%;
+        left: 0%;
+        top: 30%;
+    }
+    .modal-fullscreen-lg-down .modal-content {
+        height: auto !important;
+        min-height: 100% !important;
+        width: 90%;
+        margin: 0px auto;
+    }
+    .heo-pro-modal-content .view-pro-desc p {
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .heo-pro-modal-content .view-pro-category p {
+        margin-bottom: 20px;
+    }
+    .quick-view-btn {
+        left: 20%;
+        right: 20%;
+        width: 60%;
+    }
+    .heo-cart-pg-rp .swiper-button-prev:after {
+        left: -70px;
+    }
+    .heo-cart-pg-rp .swiper-button-next:after {
+        right: -70px;
+    }
+    .heo-pro-dl-content .heo-pro-inc-dec {
+        padding: 4px 8px;
+    }
+    .pro-customer-reviews .qty-reviews {
+        font-size: 14px;
+    }
+    .pd-add-cart-wishlist {
+        gap: 20px;
+        justify-content: space-between;
+    }
+    .pd-wish-box {
+        padding: 4.5px 9.5px;
+        width: 31%;
+    }
+    .heo-dr-timing {
+        margin-bottom: 100px;
+    }
+    .pro-detail-tabs .heo-tabset>label {
+        margin-right: 12px;
+        padding: 10px;
+    }
+    .pro-detail-tabs .heo-tabset>label:nth-child(2) {
+        padding: 10px;
+    }
+    .heo-pro-cl-com p {
+        font-size: 14px !important;
+        line-height: 28px !important;
+    }
+    .pro-detail2-tabs .heo-tab-panel {
+        padding: 40px 15px 40px 15px;
+    }
+    .heo-git-text-phone,
+    .heo-git-text-email {
+        padding: 74px 20px 53px;
+    }
+    .heo-git-text-address {
+        padding: 74px 20px 15px;
+    }
+    .heo-git-text-phone p,
+    .heo-git-text-email p,
+    .heo-git-text-address p {
+        font-size: 14px !important;
+    }
+    .heo-git-text-email p:last-child {
+        margin-top: 8px;
+    }
+    .heo-git-list {
+        margin-bottom: 70px;
+    }
+    .heo-git-last-list {
+        margin-bottom: 0px;
+    }
+    .heo-gitf-text h3 {
+        font-size: 28px !important;
+        margin-bottom: 20px;
+    }
+    .heo-gitf-text p {
+        margin-bottom: 20px;
+    }
+    .heo-blog-card-text {
+        top: 150px;
+    }
+    .heo-blog-card {
+        min-height: 490px;
+    }
+    .heo-cart-total-p {
+        gap: 15px;
+    }
+    .heo-price-filter-range {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 16px;
+    }
+    .heo-review-area h4 {
+        font-size: 30px !important;
+        margin-bottom: 20px;
+    }
+    .heo-client-header h5 {
+        font-size: 18px !important;
+        margin-bottom: 12px;
+    }
+    .pd-pro-item {
+        margin: 20px 0px;
+    }
+    .pd-pr-price p {
+        font-size: 18px !important;
+    }
+    .pd-add-cart-wishlist {
+        margin: 24px 0px;
+    }
+    .pd-add-cart-wishlist .pd-add-cart-qty,
+    .pd-add-wishlist {
+        gap: 10px;
+    }
+    .pro-detail2-tabs .heo-pro-cl-com {
+        padding: 20px 0px 0px 20px;
+    }
+    .pro-detail2-tabs .heo-review-comit-form {
+        margin-top: 42px;
+    }
+    .pd-pimage-left img {
+        width: 100%;
+    }
+    .pro-detail2-tabs .review-form {
+        margin-top: 36px;
+    }
+    .pro-detial-3 .pd-pro-item {
+        margin: 18px 0px;
+    }
+    .pro-detial-3 .pd-add-cart-wishlist,
+    .pro-detial-4 .pd-add-cart-wishlist {
+        margin: 40px 0px;
+    }
+    .heo-pro-detail-3 {
+        margin-bottom: 70px;
+    }
+    .heo-pd3-desc-sec {
+        margin-bottom: 70px;
+    }
+    h3.pd-desc-title {
+        font-size: 30px !important;
+        margin-bottom: 20px;
+    }
+    .pd-rev-info-sec h3 {
+        font-size: 30px !important;
+        margin-bottom: 20px;
+    }
+    .heo-pro-cl-com {
+        padding-top: 10px;
+    }
+    .pd3-review-form .rv-checkbox {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        align-content: center;
+    }
+    .pd3-review-form .rv-checkbox label {
+        margin: 21px 0px 21px 9px;
+    }
+    p.pd-desc-con-botm {
+        margin: 20px 0px 0px;
+    }
+    .heo-cp-bil-det-heading h3 {
+        font-size: 30px !important;
+    }
+    .heo-gal-pg1-card .heo-card-img {
+        min-height: 240px;
+    }
+    .gallery-item .heo-gp1-social-link {
+        padding: 0px 10px 30px;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 10px;
+    }
+    .heo-gallery-tabs .heo-tabset {
+        gap: 10px;
+    }
+    .heo-gallery-tabs .heo-tabset>label {
+        width: 150px;
+    }
+    .filters-list {
+        gap: 11px;
+    }
+    .filters-list li {
+        width: 150px;
+    }
+    .heo-gallery-tabs .heo-tab-panel {
+        padding-top: 43px;
+    }
+    h3.heo-fp-faq-h {
+        font-size: 28px !important;
+    }
+    h3.heo-fp-gqes-h {
+        font-size: 28px !important;
+    }
+    h3.heo-fp-oqes-h {
+        font-size: 28px !important;
+    }
+    .heo-blog-card-text p {
+        -webkit-line-clamp: 3;
+    }
+    .heo-all-services-pagination {
+        margin-top: 20px;
+    }
+    .heo-dr-detail h3 {
+        font-size: 28px !important;
+    }
+    .heo-dr-profile-links .row .col-lg-4:nth-child(2):before {
+        left: -10px;
+    }
+    .heo-dr-profile-links .row .col-lg-4:nth-child(2):after {
+        right: 2px;
+    }
+    .pro-detial-4 .pd-pro-item {
+        margin: 18px 0px;
+    }
+    .heo-pro-dl-content h5,
+    .pro-detial-3 h5,
+    .pro-detial-4 h5 {
+        margin-bottom: 12px;
+    }
+    .pd-pro-desc p {
+        font-size: 14px !important;
+    }
+    .heo-dr-detail-2-qualification {
+        padding: 80px 0px 74px;
+    }
+    .heo-dr-detail-2-qualification.heo-dr-qualification {
+        padding: 0px 0px 74px;
+    }
+    .heo-dr-detail-4 {
+        margin-bottom: 0px;
+    }
+    .heo-dr-edu-tab .heo-tabset>label {
+        padding: 12px 15px;
+        margin-right: 5px;
+    }
+    .heo-sp-timing p {
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+    .heo-sp-timing ul li {
+        padding: 13px 20px 16px 21px;
+    }
+    .heo-appiontment-sec,
+    .heo-appiontment-page {
+        padding: 89px 0px 150px;
+    }
+    .heo-am-clinic-timing h6 {
+        max-width: 80%;
+    }
+    .shop-page-res {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        gap: 0px;
+    }
+    .heo-shop-sort-btn .select2-selection--single {
+        width: 300px;
+    }
+    .quick-view-btn-timer {
+        bottom: 22%;
+    }
+    .heo-shop-detail-sb {
+        margin: 80px 0px 0px 0px;
+    }
+    .cart-total {
+        margin-top: 80px;
+        max-width: 500px;
+    }
+    table.cart-table {
+        width: 800px;
+    }
+    .table-overflow {
+        overflow-x: auto;
+    }
+    .modal-fullscreen-lg-down {
+        height: auto !important;
+        margin: 50px auto !important;
+    }
+    .heo-checkout-total-table {
+        margin-top: 80px;
+    }
+    .heo-faq-sidebar {
+        margin-top: 60px;
+    }
+    .heo-sp-related-services {
+        margin-top: 80px;
+    }
+    .heo-blog-comment {
+        padding-bottom: 80px;
+    }
+    .heo-my-account-main .row {
+        gap: 30px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .heo-slider-sec .swiper-wrapper {
+        max-height: 600px;
+    }
+    .heo-tp-left p {
+        text-align: center;
+    }
+    .heo-tp-right ul {
+        gap: 10px;
+    }
+    li.tb-social-list-item {
+        padding: 10px;
+    }
+    .heo-tp-right ul li p {
+        padding: 10px 19px 10px 0px;
+    }
+    .heo-pf-text {
+        margin-bottom: 20px;
+    }
+    .heo-portfolio-main {
+        padding: 60px 30px;
+    }
+    .heo-counter-list {
+        margin-bottom: 30px;
+    }
+    .heo-experts-appionmnet {
+        margin: -15px 15px 15px 15px;
+        padding: 10px 20px 10px 20px;
+    }
+    .heo-experts-appionmnet a {
+        padding: 10px 16px;
+        font-size: 14px;
+    }
+    .heo-experts-appionmnet a svg {
+        padding-left: 9px;
+        margin-left: 9px;
+    }
+    .heo-experts-profile .heo-card-img {
+        min-height: 305px;
+    }
+    .heo-au-main-img img {
+        max-width: 100%;
+    }
+    .heo-am-booknow {
+        border-radius: 0px 0px 10px 10px;
+    }
+    .heo-blog-text {
+        padding: 15px 0px;
+    }
+    .heo-footer-quick-links,
+    .heo-best-gallery-list {
+        margin-top: 50px;
+    }
+    .heo-blog-news .heo-latest-news {
+        flex-wrap: nowrap;
+    }
+    .heo-footer-newsletter-text {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .heo-footer-copy-rights {
+        justify-content: center;
+    }
+    .heo-footer-comp-cr p {
+        margin-bottom: 20px;
+    }
+    .heo-footer-social-link ul {
+        gap: 30px;
+    }
+    .heo-news-list-detail a {
+        font-size: 12px;
+    }
+    .heo-footer-quick-links ul li {
+        font-size: 14px;
+    }
+    .heo-footer-contact a {
+        font-size: 14px;
+    }
+    .heo-footer-social-link ul {
+        gap: 6px;
+    }
+    .heo-footer-social-link ul li a {
+        width: 37px;
+        height: 37px;
+    }
+    .heo-au-detail p {
+        margin: 10px 0px;
+        line-height: 30px !important;
+    }
+    .heo-au-detail .heo-au-p-border {
+        padding: 15px;
+    }
+    .heo-header-slider-app-btn {
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 15px;
+        margin-top: 36px;
+        flex-direction: row;
+    }
+    .heo-sp-services {
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    .heo-sp-surgical-procedure-detail h3,
+    .heo-sp-our-stratgies h3,
+    .heo-sp-related-services h3 {
+        font-size: 22px !important;
+        margin-top: 30px;
+    }
+    .heo-sp-surgical-procedure-detail p,
+    .heo-sp-our-stratgies p {
+        font-size: 14px !important;
+        text-align: justify;
+        margin-top: 15px;
+    }
+    .heo-sp-surgical-procedure-detail ul {
+        padding-left: 0px;
+        gap: 15px;
+        padding-top: 15px;
+    }
+    .heo-sp-surgical-procedure-detail ul li {
+        font-size: 14px;
+    }
+    .heo-sp-surgical-procedure-detail ul li svg {
+        padding: 2px;
+        height: 15px;
+        width: 15px;
+        margin-right: 10px;
+    }
+    .heo-footer-main {
+        padding: 50px 0px;
+    }
+    .heo-tp-right ul {
+        justify-content: center;
+    }
+    .heo-au-main-img {
+        margin-bottom: 60px;
+    }
+    .heo-au-sp-experince {
+        min-height: 100px;
+        padding: 35px 10px 10px 34px;
+        opacity: 0.7;
+        border-radius: 100px 0px 10px 0px;
+        z-index: unset;
+        right: 0px;
+        bottom: 0px;
+    }
+    .heo-au-sp-experince p {
+        font-size: 14px !important;
+    }
+    .heo-au-content a {
+        margin: auto;
+    }
+    .heo-about-us-main .heo-headings h3 {
+        width: 100%;
+    }
+    .heo-about-us-main .heo-headings h3::after {
+        text-align: center;
+    }
+    .heo-au-right-sec .heo-headings h2 {
+        text-align: center;
+    }
+    .heo-au-page-counter .heo-counter-list {
+        align-items: center !important;
+    }
+    .heo-au-pg-portfolio .heo-portfolio-main {
+        padding: 100px 30px 40px;
+    }
+    .heo-au-pg-portfolio {
+        margin-bottom: 80px !important;
+        margin-top: -60px !important;
+    }
+    .heo-au-pg-ecs-list .hec-ecs-img-icon {
+        top: unset;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img img {
+        height: unset;
+        width: unset;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img {
+        left: 138px;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-text {
+        padding: 55px 36px;
+    }
+    .heo-au-pg-testimonial .heo-tm-client-views {
+        align-items: center;
+        justify-content: center;
+    }
+    .heo-tm-client-views p {
+        text-align: justify;
+    }
+    .heo-carasoul-slider {
+        padding-bottom: 70px;
+    }
+    .heo-dr-detail {
+        margin-top: 15px;
+    }
+    .heo-dr-profile-contact .heo-app-contact-icon {
+        width: calc(10% - 6px);
+    }
+    .heo-dr-profile-contact .heo-app-contact-nbr {
+        width: calc(100%);
+        display: flex;
+        gap: 0px;
+        margin-bottom: 20px;
+        flex-direction: column;
+    }
+    .heo-dr-profile-contact .heo-app-pg-contact-detail {
+        gap: 12px;
+    }
+    .heo-dr-profile-contact .heo-app-contact-nbr h6 {
+        width: calc(30% - 12px);
+    }
+    .heo-dr-profile-contact .heo-app-contact-nbr ul {
+        width: calc(70% - 12px);
+    }
+    .heo-dr-details-row {
+        gap: 20px;
+    }
+    .heo-dr-edu-content-lists {
+        gap: 0px;
+    }
+    .heo-dr-social-link,
+    .heo-dr-details-list {
+        margin: 15px 0px;
+    }
+    .heo-dr-edu-list {
+        margin-top: 0px;
+    }
+    .heo-dr3-q {
+        padding: 100px 0px 113px;
+    }
+    .heo-dr3-q .heo-dr-edu-bullets li {
+        font-size: 12px;
+    }
+    .heo-dr3-q .heo-dr-edu-bullets li svg {
+        margin-right: 10px;
+    }
+    .heo-dr3-q .heo-dr-edu-list {
+        margin-top: 30px;
+        text-align: justify;
+    }
+    .heo-dr3-q.heo-dr-edu-content ul li h6,
+    .heo-dr3-q .heo-dr-edu-list ul li h6 {
+        font-size: 14px !important;
+    }
+    .heo-dr3-q .heo-dr-edu-list ul li h6>small {
+        margin-left: 30px;
+        font-size: 14px !important;
+    }
+    .heo-carasol-slider>h4 {
+        margin-top: 0px;
+    }
+    .heo-blog-post-stat ul li span {
+        margin-right: 15px;
+    }
+    .heo-blog-post-stat ul li svg {
+        margin-right: 15px;
+    }
+    .heo-blog-stat {
+        gap: 15px;
+        padding: 20px;
+    }
+    .heo-blog-category,
+    .heo-blog-post-stat {
+        width: unset;
+    }
+    .heo-blog-category ul li:first-child {
+        color: var(--heo-dimgray);
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .heo-blog-category ul {
+        gap: 11px;
+    }
+    .heo-blog-category ul li {
+        font-size: 10px;
+    }
+    .heo-blog-category ul li span {
+        margin-right: 10px;
+    }
+    .heo-blog-comment:before {
+        left: -10px;
+    }
+    .heo-blog-equipments h4,
+    .heo-blog-comment>h4,
+    .heo-blog-comit-form h4 {
+        font-size: 22px !important;
+    }
+    .blog-share-post {
+        align-items: flex-start;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .heo-blog-social-link {
+        width: 100%;
+    }
+    .heo-blog-social-link ul {
+        flex-wrap: nowrap;
+        width: 100%;
+        justify-content: space-between;
+    }
+    .heo-blog-tag {
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .heo-blog-tag ul {
+        gap: 15px;
+    }
+    .heo-blog-tag ul li a {
+        font-size: 12px;
+    }
+    .heo-blog-client-comment {
+        flex-wrap: wrap;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .heo-client-header {
+        gap: 5px;
+    }
+    .heo-blog-client-comment .heo-client-feed-bk p {
+        line-height: 24px !important;
+    }
+    .heo-shop-sort-btn .nav-link {
+        padding: 10px 14px 10px 14px;
+    }
+    .heo-pro-modal-content h5 {
+        margin: 14px 0px 8px 0px;
+    }
+    .quick-view-btn {
+        top: 30%;
+    }
+    .cart-table thead th {
+        font-size: 18px;
+    }
+    .cart-table .cart-pro-con span.pro-title {
+        font-size: 14px;
+    }
+    .cart-table .cart-pro-con {
+        padding: 10px 15px;
+    }
+    .cart-table .cart-coupon-row {
+        padding: 20px 10px;
+    }
+    .cart-table .update-cart-btn {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 12px 8px;
+    }
+    .cart-coupon-row input[type=text] {
+        padding: 11px 12px;
+        margin-right: 0px;
+    }
+    .cart-coupon-row .apply-code-btn {
+        width: 184px;
+    }
+    table {
+        width: 100%;
+    }
+    .heo-cart-pg-rp {
+        margin: 0px 0px 50px 0px;
+    }
+    .heo-cart-pg-rp h2 {
+        font-size: 24px !important;
+        line-height: 36px !important;
+        margin-bottom: 24px;
+    }
+    .heo-cart-pg-rp .container::before {
+        right: -40px;
+    }
+    .heo-cart-pg-rp .swiper-button-prev:after {
+        left: -70px;
+    }
+    .heo-cart-pg-rp .swiper-button-next:after {
+        right: -70px;
+    }
+    .pd-add-cart-qty .heo-pro-inc-dec {
+        width: 82%;
+    }
+    .pd-wish-box {
+        border: 1px solid var(--heo-dimgray);
+        padding: 4.5px 9.5px;
+        width: 27%;
+    }
+    .pro-detail-tabs .heo-tabset>label:nth-child(3) {
+        margin-bottom: 0px;
+    }
+    .review-form .form-control.pd1-rv-input {
+        margin-bottom: 25px;
+        padding-bottom: 5px;
+        font-size: 12px;
+    }
+    .heo-review-area h4 {
+        line-height: 36px !important;
+        margin-bottom: 0px;
+    }
+    .heo-client-header h5 {
+        font-size: 18px !important;
+        line-height: 24px !important;
+    }
+    h4.heo-pd1-ar-title {
+        font-size: 22px !important;
+        margin-bottom: 20px;
+    }
+    .heo-review-comit-form {
+        margin-top: 40px;
+    }
+    .pro-detail2-tabs .heo-tab-panel {
+        padding: 40px 15px;
+    }
+    .pro-detail2-tabs .heo-pro-cl-com {
+        padding-left: 0px;
+    }
+    .pro-detail2-tabs .heo-review-area h4 {
+        margin-bottom: 0px;
+    }
+    .pro-detail2-tabs .heo-review-comit-form {
+        margin-top: 40px;
+    }
+    .pro-detail2-tabs .heo-review-comit-form h4 {
+        margin-bottom: 14px;
+    }
+    .pro-detail2-tabs .your-rating {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+    .pro-detail2-tabs .review-form {
+        margin-top: 35px;
+    }
+    .pro-detail2-tabs .form-control.pd2-rv-textarea {
+        padding: 10px;
+    }
+    .pro-detail2-tabs .form-control.pd2-rv-input,
+    .pd3-review-form .form-control.pd3-rv-input {
+        margin-bottom: 10px;
+    }
+    .pro-detail2-tabs .review-form .rv-checkbox label {
+        margin: 0px 0px 0px 10px;
+    }
+    .heo-rv-submit-btn {
+        padding: 10px 21px;
+    }
+    .heo-git-text-phone,
+    .heo-git-text-address,
+    .heo-git-text-email {
+        padding: 74px 20px 47px;
+        margin-bottom: 60px;
+    }
+    .heo-git-form .form-control {
+        margin-bottom: 18px;
+        padding: 10px 15px;
+    }
+    .heo-git-checkbox label {
+        margin: 0px;
+    }
+    .heo-git-form-sec::after {
+        right: 0px;
+        top: 300px;
+    }
+    .heo-git-img-icon,
+    .heo-hiw-img-icon {
+        top: -45px;
+        height: 70px;
+        width: 70px;
+    }
+    .heo-git-form-sec {
+        margin: 70px 0px;
+    }
+    .heo-git-bottom-img {
+        right: 30px;
+        bottom: 30px;
+    }
+    h5.review-form-title {
+        font-size: 18px !important;
+        margin: 24px 0px 15px 0px;
+    }
+    .view-pro-category p,
+    .pro-detial-2 .pd-pro-sku-tag p {
+        font-size: 14px !important;
+    }
+    .pd-add-cart-wishlist h6 {
+        font-size: 14px !important;
+    }
+    .pro-detail2-tabs .review-form label,
+    .pd3-review-form label {
+        font-size: 14px;
+    }
+    .pro-detail2-tabs .form-control.pd2-rv-textarea,
+    .pd3-review-form .form-control.pd3-rv-textarea {
+        margin-bottom: 12px;
+    }
+    .heo-pro-detail-sec {
+        margin-bottom: 50px;
+    }
+    .heo-pro-detail-3 {
+        margin-bottom: 30px;
+    }
+    .pd-rev-info-sec .heo-review-area h4 {
+        margin-bottom: 20px;
+    }
+    .pd-rev-info-sec h3 {
+        margin-top: 0px;
+    }
+    .pd-add-info p {
+        padding: 14px 0px;
+    }
+    .heo-cp-bil-det-heading h3 {
+        margin-bottom: 30px;
+    }
+    .heo-cp-od-heading h3 {
+        margin: 40px 0px 30px;
+    }
+    .heo-cp-bd-form .form-control {
+        margin-bottom: 18px;
+        padding: 12px 15px;
+    }
+    .heo-bai-heading {
+        margin: 40px 0px 25px;
+    }
+    .heo-cp-bd-form .form-control::placeholder {
+        font-size: 14px;
+    }
+    .heo-gal-pg1-card .heo-card-img {
+        min-height: 260px;
+    }
+    .heo-gallery-tabs .heo-tabset>label {
+        padding: 10px 0px;
+        font-size: 14px;
+        width: 120px;
+    }
+    .filters-list li {
+        padding: 10px 0px;
+        font-size: 14px;
+        width: 120px;
+    }
+    .heo-faq-sidebar {
+        margin-top: 64px;
+    }
+    .heo-dr-timing .heo-sp-timing {
+        margin-top: 0px;
+    }
+    .heo-dr-timing {
+        margin-top: 80px;
+    }
+    .heo-dr-profile-links .row:after {
+        content: none;
+    }
+    .heo-dr-profile-links .row .col-lg-4:nth-child(2):before,
+    .heo-dr-profile-links .row .col-lg-4:nth-child(2):after {
+        content: none;
+    }
+    .heo-dr-edu-content ul {
+        padding-right: 10px;
+    }
+    .heo-rev-pro-h {
+        margin-bottom: 20px !important;
+    }
+    .pro-detial-4 .pd-add-cart-wishlist {
+        gap: 10px;
+    }
+    .add-info-panel .add-info-panel-con {
+        padding: 26px 40px 33px 40px;
+    }
+    .heo-header-slider-main p {
+        width: 100% !important;
+    }
+    .heo-pro-modal-content .view-pro-price p {
+        margin: 18px 0px;
+    }
+    .heo-dr-qualification-main .heo-tab-panel {
+        padding: 40px 0px 70px 0px;
+    }
+    .heo-dr-edu-caption-exp {
+        margin-top: 50px;
+    }
+    .heo-dr-detai-5 .heo-dr-qualification-main {
+        margin-bottom: 0px;
+    }
+    .dr-detail-p1 .heo-dr-qualification-main {
+        margin-top: 40px;
+    }
+    .heo-pro-detail-sidebar {
+        margin-top: 80px;
+    }
+    .pd-rev-info-sec {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+    .heo-pro-dl-content.pro-detial-3 {
+        padding-top: 50px;
+    }
+    .heo-pd4-desc-sec {
+        margin-bottom: 0px;
+    }
+    .heo-pro-dl-content.pro-detial-4 {
+        padding-top: 50px;
+    }
+    .heo-get-review .heo-review-comit-form {
+        margin-top: 40px;
+    }
+    .heo-header-slider-app-btn a {
+        text-align: center;
+    }
+    .heo-dr-detai-6 .heo-dr-detail {
+        padding: 0px !important;
+    }
+    .heo-dr-detai-6 .heo-dr-name-title {
+        padding: 0px 30px;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+    .heo-dr-profile .heo-card-img {
+        min-height: 100%;
+    }
+    .heo-sp-contact-nbr p svg {
+        margin-left: 20px;
+    }
+    .heo-bt-detail {
+        padding: 20px 12px;
+    }
+    .heo-shop-sb {
+        margin: 80px 0px 0px 0px;
+    }
+    .shop-page-res {
+        flex-direction: row;
+        margin: 10px 0px;
+    }
+    .quick-view-btn-timer {
+        bottom: 28%;
+    }
+    .shop-page-product .heo-pagination {
+        justify-content: center;
+    }
+    .heo-pro-dl-content {
+        padding-top: 60px;
+    }
+    .cart-table tbody tr td {
+        padding: 15px 0px;
+    }
+}
+
+@media (max-width: 576px) {
+    .heo-slider-sec:before {
+        clip-path: polygon(90% 0, 100% 0, 100% 100%, 60% 100%);
+    }
+    .heo-slider-sec .swiper-wrapper {
+        max-height: 500px;
+    }
+    .heo-header-slider-main {
+        padding: 100px 0px;
+    }
+    .heo-our-sub-page-caption h2 {
+        font-size: 24px !important;
+        line-height: 36px !important;
+    }
+    .heo-tp-right ul {
+        gap: 8px;
+        align-items: center;
+        justify-content: center;
+        margin-top: 15px;
+    }
+    .heo-ecs-text {
+        padding: 44px 30px 41px 30px;
+    }
+    .heo-services-main {
+        margin-top: 60px;
+        padding-bottom: 95px;
+    }
+    .heo-testiminial-main {
+        padding-top: 80px;
+    }
+    .heo-blog-news-main {
+        margin-top: 60px;
+    }
+    .heo-blog-news-sec {
+        margin-bottom: 50px;
+    }
+    .heo-contact-us-main h5 {
+        text-align: center;
+    }
+    .heo-view-more {
+        text-align: center;
+    }
+    .heo-au-exp-20 {
+        left: 20px;
+        top: -50px;
+    }
+    .heo-experts-profile .heo-au-exp-20 {
+        top: auto;
+    }
+    .heo-tm-client-views p {
+        line-height: 30px !important;
+    }
+    .heo-am-clinic-timing h6 {
+        max-width: 100%;
+    }
+    .heo-footer-comp-cr p {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .footer-copyright-sec {
+        padding: 0px 15px;
+    }
+    .heo-cilent-fb-inner {
+        flex-wrap: wrap;
+    }
+    .heo-cilent-fb-inner p {
+        font-size: 14px !important;
+    }
+    .heo-experts-profile {
+        display: grid;
+    }
+    .heo-ox-social-link {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        gap: 50px;
+    }
+    .heo-footer-copy-rights {
+        flex-direction: column;
+    }
+    .heo-footer-quick-links,
+    .heo-best-gallery-list {
+        margin-top: 40px;
+    }
+    .heo-footer-newsletter-main button {
+        padding: 0px 10px 0px;
+        font-size: 14px;
+    }
+    .heo-experts-appionmnet {
+        flex-direction: column;
+        padding: 20px;
+        text-align: center;
+    }
+    .heo-all-btn {
+        margin: auto;
+    }
+    .heo-au-pg-ecs-list {
+        flex-direction: column;
+        max-height: 100%;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-img,
+    .heo-au-pg-ecs-list .heo-ecs-text {
+        width: 100%;
+    }
+    .heo-au-pg-ecs-list .hec-ecs-img-icon {
+        bottom: -40px;
+        left: 22px;
+    }
+    .heo-au-pg-ecs-list .heo-ecs-bottom-img {
+        left: unset;
+        bottom: 6px;
+        right: 6px;
+    }
+    .heo-au-service-sec .heo-ecs-banner-img img {
+        border-radius: 5px 5px 0px 0px;
+    }
+    .heo-au-services-sec {
+        padding-top: 70px;
+    }
+    .heo-about-us-main {
+        margin-bottom: 70px;
+    }
+    .heo-how-it-works-sec {
+        margin-top: 90px;
+    }
+    .heo-brands-slider {
+        padding-top: 70px;
+    }
+    .heo-brands-slider-main {
+        padding: 15px 0px 20px;
+    }
+    .heo-tabset>label {
+        font-size: 18px;
+        margin-right: 16px;
+    }
+    .heo-dr-experince {
+        right: -6px;
+        bottom: unset;
+        top: -60px;
+        padding: 9px 30px 28px 30px;
+    }
+    .heo-all-blogs-page {
+        padding: 80px 0px;
+    }
+    .heo-pagination {
+        flex-wrap: wrap;
+    }
+    .heo-pagination a {
+        padding: 15px 20px;
+    }
+    .heo-all-services-page {
+        padding: 80px 0px;
+    }
+    .heo-sp-related-services .heo-heading-sec {
+        margin-bottom: 60px;
+    }
+    .heo-blog-post-stat ul li span {
+        margin-right: 5px;
+    }
+    .heo-blog-post-stat ul {
+        gap: 10px;
+    }
+    .heo-blog-post-stat ul li svg {
+        margin-right: 10px;
+    }
+    .heo-latest-news,
+    .heo-blog-news {
+        gap: 19px;
+        flex-wrap: nowrap;
+    }
+    .heo-news-list-img {
+        min-width: 70px;
+    }
+    .heo-bc-header {
+        padding: 12px 15px;
+    }
+    .heo-feed-bk-reply-link a {
+        gap: 7px;
+    }
+    /* shop page css */
+    .heo-shop-cart-btns a.view-cart-btn,
+    a.checkout-btn {
+        padding: 7px 16px 8px 16.5px;
+    }
+    .heo-shop-pro-card figure.pro-card-media {
+        max-height: 370px;
+        max-width: 564px;
+    }
+    .pro-card-media img {
+        width: 100%;
+        max-height: 364px;
+    }
+    div#heo-shop-pro-timer {
+        width: 90%;
+        left: 5%;
+        right: 5%;
+    }
+    .pro-detail-tabs .heo-tabset>label {
+        margin-right: 5px;
+    }
+    .cart-table thead th {
+        font-size: 16px;
+    }
+    .cart-table .cart-coupon-row {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        gap: 15px;
+    }
+    .cart-coupon-row input[type=text] {
+        width: 60%;
+    }
+    .cart-table .cart-pro-inc-dec {
+        padding: 10px 8px;
+    }
+    .cart-total .sub-total-div {
+        padding: 20px 25px;
+    }
+    .pro-shipping .ship-left-div {
+        padding: 0px 25px;
+    }
+    .pro-shipping .ship-left-div h5 {
+        font-size: 18px;
+    }
+    .pro-shipping .ship-right-div {
+        padding: 25px 10px 25px 0px;
+    }
+    .heo-cart-pg-rp .container::before {
+        right: -10px;
+    }
+    .heo-related-pro {
+        max-width: 100%;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .heo-cart-pg-rp .swiper-button-prev:after {
+        left: -10px !important;
+    }
+    .heo-cart-pg-rp .swiper-button-next:after {
+        right: -10px !important;
+    }
+    .heo-pd-gallery .gallery-top.swiper-container {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .heo-pro-dl-content .view-pro-desc p {
+        max-width: 100%;
+    }
+    .heo-git-form .form-control::placeholder {
+        font-size: 14px;
+    }
+    .heo-git-form .heo-submit-btn {
+        padding: 15px 30px;
+    }
+    .heo-git-form-sec::after {
+        right: 0px;
+        top: 250px;
+    }
+    .heo-gitf-text h3 {
+        font-size: 22px !important;
+        line-height: 30px !important;
+    }
+    .heo-all-services-pagination a {
+        padding: 10px !important;
+    }
+    .heo-blog-card-text {
+        top: 90%;
+        max-width: 84%;
+        left: 7.95%;
+        right: 7.95%;
+    }
+    .heo-blog-card {
+        min-height: 560px;
+        margin-top: 40px;
+    }
+    .heo-shop-sb-sl {
+        margin-bottom: 20px;
+    }
+    .shop-page-res {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+        margin-top: 0px;
+    }
+    .heo-shop-sort-btn .select2-selection--single {
+        width: 250px;
+    }
+    .heo-review-area h4 {
+        font-size: 22px !important;
+    }
+    h3.pd-desc-title {
+        font-size: 22px !important;
+        margin-bottom: 15px;
+    }
+    .pd-rev-info-sec h3 {
+        font-size: 22px !important;
+        margin-top: 40px;
+    }
+    .heo-cp-bil-det-heading h3 {
+        margin-bottom: 25px;
+        font-size: 22px !important;
+    }
+    .heo-cp-form-cbox {
+        padding: 15px 0px 25px 0px;
+    }
+    .heo-gal-pg1-card .heo-card-img {
+        min-width: 100%;
+    }
+    .heo-gp1-social-link {
+        max-width: 100%;
+    }
+    .heo-gallery-page1-sec {
+        margin: 80px 0px;
+    }
+    .heo-gallery-page2-sec {
+        margin: 80px 0px 60px;
+    }
+    .heo-get-in-touch-sec {
+        margin-top: 125px;
+    }
+    .heo-faq-page {
+        margin: 80px 0px 64px;
+    }
+    p.heo-fp-fqes-p {
+        margin: 11px 0px 50px;
+    }
+    h3.heo-fp-gqes-h {
+        margin-bottom: 30px;
+    }
+    h3.heo-fp-oqes-h {
+        margin: 50px 0px 30px;
+    }
+    p.heo-fp-faq-p {
+        margin-bottom: 50px;
+    }
+    .heo-faq-page-sec {
+        margin: 80px 0px;
+    }
+    h2.heo-fp-oqes-h {
+        margin: 60px 0px 20px;
+    }
+    .heo-gitf-ta {
+        margin-top: 18px !important;
+    }
+    .heo-con-pg-banner {
+        margin-bottom: 80px;
+    }
+    .heo-all-blogs-main {
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+    .heo-all-services-pagination {
+        margin-top: 40px;
+    }
+    .heo-checkout-page {
+        margin: 70px 0px 80px;
+    }
+    .heo-sp-service-detail-sec {
+        padding: 80px 0px 50px;
+    }
+    .heo-cart-table {
+        margin: 80px 0px 75px;
+    }
+    table.cart-table {
+        width: 700px;
+    }
+    .heo-about-us-page .heo-about-us-main {
+        padding: 80px 0px;
+    }
+    .heo-au-service-sec .heo-services-main {
+        padding: 0px 0px 80px 0px;
+    }
+    .heo-au-how-works-sec {
+        padding: 70px 0px 0px;
+    }
+    .heo-au-pg-our-experts {
+        margin-bottom: 0px !important;
+    }
+    .heo-our-experts-sec {
+        padding: 0 0 80px 0px;
+    }
+    .heo-contact-us-sec {
+        margin-bottom: 75px;
+    }
+    .heo-blog-page {
+        margin: 80px 0px;
+    }
+    .heo-shop-page {
+        padding: 80px 0px;
+    }
+    .heo-sp-surgical-procedure {
+        margin-bottom: 70px;
+    }
+    .heo-dr-pg-slider {
+        margin-top: 60px;
+        padding-bottom: 80px;
+    }
+    .heo-slider-sec {
+        margin-bottom: 70px;
+    }
+    .heo-counter-main {
+        margin-bottom: 80px;
+    }
+    .heo-portfolio-sec {
+        margin: 20px 0px 0px;
+    }
+    .heo-blog-news-sec {
+        margin-top: 70px;
+    }
+    .heo-blog-inner {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+    }
+    .heo-blog-text {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        padding-right: 28px;
+        justify-content: flex-start;
+        gap: 10px;
+        padding: 20px;
+        background: var(--heo-light);
+        box-shadow: 0px 2px 16px rgb(70 70 70 / 20%);
+        margin-top: -10px;
+        border-radius: 0px 0px 10px 10px;
+    }
+    .heo-blog-img {
+        width: 100%;
+    }
+    .heo-all-doctors-page {
+        padding: 80px 0px;
+    }
+    .heo-all-doctors-page .heo-our-best-team-main {
+        margin-top: 0px;
+    }
+    .heo-dr-timing {
+        margin-bottom: 80px;
+    }
+    .heo-dr-profile {
+        margin-top: 80px;
+    }
+    .heo-dr-detail h3 {
+        font-size: 22px !important;
+        line-height: 36px !important;
+    }
+    .heo-dr-detail-2-qualification {
+        padding: 40px 0px 74px;
+    }
+    .heo-dr-details-list .heo-app-contact-nbr {
+        width: 100%;
+    }
+    .heo-dr-bio-h {
+        margin-bottom: 30px !important;
+    }
+    .heo-dr-profile-links .row:after {
+        content: "";
+        width: 90%;
+        top: calc(50% + 23px);
+        left: 5%;
+        right: 5%;
+    }
+    .heo-dr-profile-links .col-lg-4:nth-child(3n) .heo-app-pg-contact-detail {
+        max-width: initial;
+    }
+    .heo-pro-detail-page {
+        padding: 80px 0px;
+    }
+    .pro-detial-4 .pd-add-cart-wishlist {
+        gap: 36px;
+        justify-content: flex-start;
+    }
+    .add-info-panel-con .pd-add-info p:first-child {
+        width: 50%;
+    }
+    .pro-detail-p4-tabs .heo-tab-panel.review-panel,
+    .pro-detail-p4-tabs .heo-tab-panel.add-info-panel {
+        padding-top: 50px;
+    }
+    .heo-blog-news-sec .container .swiper-button-next:after {
+        right: -10px !important;
+    }
+    .heo-blog-news-sec .container .swiper-button-prev:after {
+        left: -10px !important;
+    }
+    .heo-slider-sec {
+        padding: 65px 0px 50px;
+    }
+    .heo-blog-news-sec .container .swiper-button-next:after,
+    .heo-our-experts-sec .container .swiper-button-next:after,
+    .heo-dr-pg-slider .container .swiper-button-next:after {
+        right: 0px !important;
+    }
+    .heo-blog-news-sec .container .swiper-button-prev:after,
+    .heo-our-experts-sec .container .swiper-button-prev:after,
+    .heo-dr-pg-slider .container .swiper-button-prev:after {
+        left: 0px !important;
+    }
+    .heo-appiontment-page-contact {
+        margin-bottom: 80px;
+    }
+    .heo-app-pg-cd-add {
+        margin: 40px 0px;
+    }
+    .heo-dr-qualification-main {
+        margin-top: 30px;
+        margin-bottom: 74px;
+    }
+    .heo-dr-edu-caption-edu {
+        margin-top: 50px;
+    }
+    .heo-dr-detail-2-qualification.heo-dr3-q {
+        padding: 80px 0px 74px;
+    }
+    .heo-dr-edu-tab .heo-tabset>label {
+        padding: 12px 10px;
+        font-size: 18px !important;
+    }
+    .heo-dr-profile-links {
+        margin-bottom: 70px;
+    }
+    .heo-pd3-desc-sec {
+        margin-bottom: 0px;
+    }
+    .heo-banner-slider .text {
+        font-size: 18px !important;
+    }
+    .heo-bt-detail {
+        padding: 20px;
+    }
+    .heo-testiminial-sec,
+    .heo-au-testiminial-sec {
+        padding: 80px 0px;
+    }
+    .heo-our-best-team {
+        padding: 80px 0px 94px;
+    }
+    .heo-appiontment-sec,
+    .heo-appiontment-page {
+        padding: 70px 0px 140px;
+    }
+    .quick-view-btn-timer {
+        bottom: 21%;
+        left: 4%;
+    }
+    .heo-feed-bk-time ul {
+        flex-direction: column;
+    }
+    .heo-feed-bk-time ul li:nth-child(2) {
+        display: none;
+    }
+    .heo-checkout-form .heo-checkout-btn {
+        padding: 15px 70px;
+    }
+    .heo-testiminial-page {
+        padding: 70px 0px 55px;
+    }
+    .heo-my-account-page {
+        padding: 80px 0px;
+    }
+    .heo-header-slider-app-btn {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 459.98px) {
+    .heo-blog-card {
+        min-height: 520px;
+    }
+    .heo-header-slider-main h1 {
+        font-size: 30px !important;
+    }
+    .heo-header-slider-main h1 span {
+        font-size: 28px !important;
+    }
+    .heo-banner-slider .swiper-pagination-bullets {
+        right: 15px !important;
+    }
+    .heo-appiontment-sec::after,
+    .heo-about-us-sec::after {
+        display: none;
+    }
+    .heo-maf-cbox-flink {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .heo-my-account-form {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .heo-au-acheivments {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .heo-au-right-sec .heo-au-heading {
+        text-align: center;
+    }
+    .heo-au-detail p {
+        text-align: center;
+    }
+    .heo-au-acheivments {
+        justify-content: center;
+    }
+    .heo-au-watch-demo a {
+        justify-content: center;
+    }
+}
